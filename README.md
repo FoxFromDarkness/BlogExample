@@ -13,6 +13,9 @@ All necessary initial database operations (such as creating tables, inserting fi
 2. Get all articles for given author. - Completed
 3. Get top 3 authors that wrote the most articles last week. - Not finished yet
 
+### Intro:
+Start review project on: /blogexample/php/blog.php.
+
 ### Galery:
 - Login
 <a href="https://imgur.com/sEiDN8X"><img src="https://i.imgur.com/sEiDN8X.png" title="source: imgur.com" /></a>
@@ -26,13 +29,13 @@ All necessary initial database operations (such as creating tables, inserting fi
 - Post
 <a href="https://imgur.com/LAwJBvC"><img src="https://i.imgur.com/LAwJBvC.png" title="source: imgur.com" /></a>
 
-- Edit
+- Edit post
 <a href="https://imgur.com/QsaEtg0"><img src="https://i.imgur.com/QsaEtg0.png" title="source: imgur.com" /></a>
 
-- Get article by some id
+- Get article by some id (/blogexample/php/get_by_id.php)
 <a href="https://imgur.com/EHJoxej"><img src="https://i.imgur.com/EHJoxej.png" title="source: imgur.com" /></a>
 
-- Get all articles for given author
+- Get all articles for given author (/blogexample/php/get_post_by_user.php)
 <a href="https://imgur.com/oMwDdGq"><img src="https://i.imgur.com/oMwDdGq.png" title="source: imgur.com" /></a>
 
 - Posts table
