@@ -16,7 +16,7 @@ All necessary initial database operations (such as creating tables, inserting fi
 ### Intro:
 Start review project on: /blogexample/php/blog.php.
 
-### Galery:
+### Gallery:
 - Login
 <a href="https://imgur.com/sEiDN8X"><img src="https://i.imgur.com/sEiDN8X.png" title="source: imgur.com" /></a>
 
